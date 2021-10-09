@@ -20,6 +20,7 @@ $ cd ~/catkin_ws/src
 $ git clone https://github.com/azezezaaa/udm_dave_gb.git
 $ cd ~/catkin_ws/
 $ catkin_make && source devel/setup.bash
+$ export TURTLEBOT3_MODEL=waffle_pi
 ```
 ## Step 3
 ### Terminal A
